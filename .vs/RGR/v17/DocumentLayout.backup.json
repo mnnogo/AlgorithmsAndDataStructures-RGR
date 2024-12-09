@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\RGR\\RGR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9194ADA-5175-488B-9830-B083AD7A07CF}|RGR.csproj|d:\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\rgr\\rgr\\maxweightsubmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9194ADA-5175-488B-9830-B083AD7A07CF}|RGR.csproj|solutionrelative:maxweightsubmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9194ADA-5175-488B-9830-B083AD7A07CF}|RGR.csproj|d:\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\rgr\\rgr\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9194ADA-5175-488B-9830-B083AD7A07CF}|RGR.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9194ADA-5175-488B-9830-B083AD7A07CF}|RGR.csproj|D:\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\RGR\\RGR\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9194ADA-5175-488B-9830-B083AD7A07CF}|RGR.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 206,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\RGR\\RGR\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\RGR\\RGR\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T10:24:24.468Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaxWeightSubmatrix.cs",
+              "DocumentMoniker": "D:\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\RGR\\RGR\\MaxWeightSubmatrix.cs",
+              "RelativeDocumentMoniker": "MaxWeightSubmatrix.cs",
+              "ToolTip": "D:\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\RGR\\RGR\\MaxWeightSubmatrix.cs",
+              "RelativeToolTip": "MaxWeightSubmatrix.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowFQAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:31:54.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\RGR\\RGR\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\\u0430\u043B\u0433\u043E\u0440\u0438\u0442\u043C\u044B \u0438 \u0441\u0442\u0440\u0443\u043A\u0442\u0443\u0440\u044B\\RGR\\RGR\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:24:43.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
